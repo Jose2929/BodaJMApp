@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613451471203,
+  "timestamp": 1613538353000,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -25,6 +25,7 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/img/bk_video.mp4",
         "/assets/img/casa.jpg",
         "/assets/img/fondo-anillo.png",
         "/assets/img/fondo-boda.jpg",
@@ -41,11 +42,11 @@
         "/assets/realidad/rv.html",
         "/favicon.ico",
         "/index.html",
-        "/main.c0a1c6e35c1b38104663.js",
+        "/main.f0133da0cc1bf1147952.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.41b189f29e74b9208b09.css"
+        "/styles.1c89649f5898c3802330.css"
       ],
       "patterns": []
     },
@@ -107,6 +108,7 @@
     "/assets/icons/icon-512x512.png": "b532858337a716e1d96490fec73e9ddc59a67294",
     "/assets/icons/icon-72x72.png": "12187f8df01f1fdd575b429d3645d3c0d3bbfb0f",
     "/assets/icons/icon-96x96.png": "116caf4c8671c69aa087186e8ebbdcfe92479f1e",
+    "/assets/img/bk_video.mp4": "40d240219ed16636a6f985e4f9fdf9d104489512",
     "/assets/img/casa.jpg": "e254aab45628c3e24c21825b8f3f7079348d1db2",
     "/assets/img/fondo-anillo.png": "969f947236eb1b9213e48b4f2e48b6cbbd7f40dd",
     "/assets/img/fondo-boda.jpg": "486b37b7e0c640ed074519b31c0172f7816fc96b",
@@ -137,17 +139,17 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "65de48f68fee1a1c4913aae54c583f7b2f3f7d47",
+    "/index.html": "89a2693840918f67526061bcf0d8f36d38d4cb44",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.c0a1c6e35c1b38104663.js": "62bbe4844ca812b8543367dce219aa2e3728a787",
+    "/main.f0133da0cc1bf1147952.js": "44d998376c4c3b99c5a7a6dc006bc31beca70c23",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.41b189f29e74b9208b09.css": "9e0e638a8bcf4a89b81bd88177124019fe975d54"
+    "/styles.1c89649f5898c3802330.css": "1bceecac697cf5f115f8c89fd3b5ccff653d3fd7"
   },
   "navigationUrls": [
     {
