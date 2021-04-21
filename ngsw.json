@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618641310489,
+  "timestamp": 1618991629273,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
         "/assets/realidad/realidad-virtual.html",
         "/favicon.ico",
         "/index.html",
-        "/main.3c4d774ab61e79f64d23.js",
+        "/main.e419c9fa376325d1c4e9.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
@@ -160,13 +160,13 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ee8ff7262dbc44999bfa4141b1469e70af45c359",
+    "/index.html": "a85c0a4e4230e597453d602343ebe2cdeae9a787",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.3c4d774ab61e79f64d23.js": "b0307187aeb748c023c28d7017b1ded2f8eb4e6c",
+    "/main.e419c9fa376325d1c4e9.js": "a1076da5e14ef3473af6985d34972b27e72eb3ab",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
