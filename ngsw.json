@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621231793024,
+  "timestamp": 1621321386809,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,6 +12,8 @@
       },
       "urls": [
         "/4.2a83582e459718001233.js",
+        "/assets/fonts/FredokaOne-Regular.ttf",
+        "/assets/fonts/OFL.txt",
         "/assets/fonts/OFL_Pacifico.txt",
         "/assets/fonts/OFL_PressStart2P.txt",
         "/assets/fonts/OFL_Sacramento.txt",
@@ -27,6 +29,7 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/img/bk_video.mp4",
+        "/assets/img/candado.png",
         "/assets/img/carta.png",
         "/assets/img/casa.jpg",
         "/assets/img/fondo-anillo.png",
@@ -36,7 +39,7 @@
         "/assets/img/qr.jpg",
         "/assets/img/salon.jpg",
         "/assets/img/sello.png",
-        "/assets/img/si_bkg.jpg",
+        "/assets/img/si_bkg.png",
         "/assets/img/sobre-top.png",
         "/assets/img/sobre.png",
         "/assets/libs/animista.css",
@@ -66,12 +69,12 @@
         "/assets/realidad/realidad-virtual.html",
         "/favicon.ico",
         "/index.html",
-        "/main.218b6ce29d9ce04eed9c.js",
+        "/main.5a4dcd38be0898748d2d.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
         "/scripts.104d775d0a7126cbafbd.js",
-        "/styles.f107e396a35733fd5410.css"
+        "/styles.a7ba3e63af575ad56cdd.css"
       ],
       "patterns": []
     },
@@ -83,6 +86,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/FredokaOne-Regular.3888a8fd758c9b59eda4.ttf",
         "/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf",
         "/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2",
         "/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff",
@@ -107,7 +111,8 @@
         "/ionicons.576a3a02948f7f5140b2.ttf",
         "/ionicons.74d1410980e8dabb67a0.svg",
         "/ionicons.a014cf6987657a489eaa.eot",
-        "/ionicons.ef35f15cc09a26825792.woff"
+        "/ionicons.ef35f15cc09a26825792.woff",
+        "/si_bkg.762224d1f1cada8630b3.png"
       ],
       "patterns": []
     }
@@ -115,11 +120,14 @@
   "dataGroups": [],
   "hashTable": {
     "/4.2a83582e459718001233.js": "4331f0ad03c4b89739ec50616a8fb662c39f177e",
+    "/FredokaOne-Regular.3888a8fd758c9b59eda4.ttf": "a1e23edbf2b1640ca17ca5e863bf4508f3b404a7",
     "/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf": "030f09ac12fb86a13f7432a75836b6768b541257",
     "/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2": "6ee4c79372c3fd679706306ede47e4b03cf53d60",
     "/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff": "f8575ba5b551d1c2077f2003dd272c08e0bf9168",
     "/PressStart2P-Regular.5f45b52192a301cb8ccd.ttf": "6e2e27152e143b0bff28bf3f21f84e4c3f30760e",
     "/Sevillana-Regular.cfec803c94951047de2a.ttf": "754a8a13c9b02386d4168188e544d36eab6c713d",
+    "/assets/fonts/FredokaOne-Regular.ttf": "a1e23edbf2b1640ca17ca5e863bf4508f3b404a7",
+    "/assets/fonts/OFL.txt": "1a821896843ac02d6614d9b695fc5555b98c219d",
     "/assets/fonts/OFL_Pacifico.txt": "20638da1ee8c638dbe8445ff42bd50ff28a1be8e",
     "/assets/fonts/OFL_PressStart2P.txt": "4670b8da00919e4ded50b01d840d36d6499c930e",
     "/assets/fonts/OFL_Sacramento.txt": "66d0e5872f94da6dbeff5563f576c60882a738bb",
@@ -135,6 +143,7 @@
     "/assets/icons/icon-72x72.png": "12187f8df01f1fdd575b429d3645d3c0d3bbfb0f",
     "/assets/icons/icon-96x96.png": "116caf4c8671c69aa087186e8ebbdcfe92479f1e",
     "/assets/img/bk_video.mp4": "40d240219ed16636a6f985e4f9fdf9d104489512",
+    "/assets/img/candado.png": "5bf895781a592a1b26418046ec7b64b3aea50c9c",
     "/assets/img/carta.png": "1e71072e358b63e6f32969f72445329ad48a1e03",
     "/assets/img/casa.jpg": "bd7488d29fc572f75e54790b90119b724326c1f0",
     "/assets/img/fondo-anillo.png": "969f947236eb1b9213e48b4f2e48b6cbbd7f40dd",
@@ -144,7 +153,7 @@
     "/assets/img/qr.jpg": "f87286e9b784788505b2a3bbd2d6799924f364fa",
     "/assets/img/salon.jpg": "31ddf4a2063bbec1ea802c0b16d223f6dcbeb9ac",
     "/assets/img/sello.png": "696a8f9476325b2fa774fab4f27c06d5daeaf475",
-    "/assets/img/si_bkg.jpg": "a5f6408fcbc9eb34d9694d89b772b1c30db4a127",
+    "/assets/img/si_bkg.png": "28fb96b61e88cf21a5bff2cec3b9f341c17a943e",
     "/assets/img/sobre-top.png": "65fcdad40239681e7b7db871badcba9171090ca1",
     "/assets/img/sobre.png": "46c93707945bd9f2182885ad4e9e8bf0d3f3c705",
     "/assets/libs/animista.css": "dba4450d2d166b5ffd03e4ed2804e6b83705fe83",
@@ -188,18 +197,19 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "909995ad9f2a28ba7069f56135aded495f444c33",
+    "/index.html": "50d3ca1f5d5bfe2e5ad3a134fc8aa53b5b7b1da5",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.218b6ce29d9ce04eed9c.js": "71b602e89a98bb06453da1727588a19cb5e56599",
+    "/main.5a4dcd38be0898748d2d.js": "b8186b9eb6218c3dde0bb5e209d0b134052080f3",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
     "/scripts.104d775d0a7126cbafbd.js": "c213ebf88a707154472984f39ad1e424312f5412",
-    "/styles.f107e396a35733fd5410.css": "5c581a903baf093ded7065c279c2501a5d4e647b"
+    "/si_bkg.762224d1f1cada8630b3.png": "28fb96b61e88cf21a5bff2cec3b9f341c17a943e",
+    "/styles.a7ba3e63af575ad56cdd.css": "1ea1b560e61fa2d16ba0b020d99abcc6484d381e"
   },
   "navigationUrls": [
     {
