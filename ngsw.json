@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621411790477,
+  "timestamp": 1621453401108,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -70,12 +70,12 @@
         "/assets/realidad/realidad-virtual.html",
         "/favicon.ico",
         "/index.html",
-        "/main.48ce0a5cbe59ac40bbcb.js",
+        "/main.85153cfad4314f430c9f.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
         "/scripts.104d775d0a7126cbafbd.js",
-        "/styles.790fa8cabe3acf06fd16.css"
+        "/styles.51f12d95dc4985a2a3d7.css"
       ],
       "patterns": []
     },
@@ -200,18 +200,18 @@
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/fondo.3f49cf5e7ef9eb9ff320.png": "ef5d33722e6326a0ea5d705b1bebbd600f573ef9",
-    "/index.html": "3d6b8c8d08b3d56f480c8bd2369763a4ced2c3e2",
+    "/index.html": "055a08e951db453988441a4bb5291dc1c8a889d1",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.48ce0a5cbe59ac40bbcb.js": "69fba049e55454a0af13debeff855a61df5e87c2",
+    "/main.85153cfad4314f430c9f.js": "7f015e81914ce3959a143cea0ac40cf54c8044dc",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
     "/scripts.104d775d0a7126cbafbd.js": "c213ebf88a707154472984f39ad1e424312f5412",
-    "/styles.790fa8cabe3acf06fd16.css": "6dd5d34c174dde0453f515ed28933e81f582f00c"
+    "/styles.51f12d95dc4985a2a3d7.css": "9ee40af9f463242fb65122d2ffcd9f57c556bcbb"
   },
   "navigationUrls": [
     {
