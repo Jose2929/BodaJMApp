@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621321386809,
+  "timestamp": 1621411790477,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -34,6 +34,7 @@
         "/assets/img/casa.jpg",
         "/assets/img/fondo-anillo.png",
         "/assets/img/fondo-boda.jpg",
+        "/assets/img/fondo.png",
         "/assets/img/iglesia.jpg",
         "/assets/img/marte.jpg",
         "/assets/img/qr.jpg",
@@ -69,12 +70,12 @@
         "/assets/realidad/realidad-virtual.html",
         "/favicon.ico",
         "/index.html",
-        "/main.5a4dcd38be0898748d2d.js",
+        "/main.48ce0a5cbe59ac40bbcb.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
         "/scripts.104d775d0a7126cbafbd.js",
-        "/styles.a7ba3e63af575ad56cdd.css"
+        "/styles.790fa8cabe3acf06fd16.css"
       ],
       "patterns": []
     },
@@ -107,12 +108,12 @@
         "/fa-solid-900.867bbaaf9dda15b203dd.woff2",
         "/fa-solid-900.8fb677a95f4d1a60a535.ttf",
         "/fa-solid-900.dc4cd499c4e39885ce89.eot",
+        "/fondo.3f49cf5e7ef9eb9ff320.png",
         "/ionicons.175f391f238cd7deffa8.woff2",
         "/ionicons.576a3a02948f7f5140b2.ttf",
         "/ionicons.74d1410980e8dabb67a0.svg",
         "/ionicons.a014cf6987657a489eaa.eot",
-        "/ionicons.ef35f15cc09a26825792.woff",
-        "/si_bkg.762224d1f1cada8630b3.png"
+        "/ionicons.ef35f15cc09a26825792.woff"
       ],
       "patterns": []
     }
@@ -148,6 +149,7 @@
     "/assets/img/casa.jpg": "bd7488d29fc572f75e54790b90119b724326c1f0",
     "/assets/img/fondo-anillo.png": "969f947236eb1b9213e48b4f2e48b6cbbd7f40dd",
     "/assets/img/fondo-boda.jpg": "486b37b7e0c640ed074519b31c0172f7816fc96b",
+    "/assets/img/fondo.png": "ef5d33722e6326a0ea5d705b1bebbd600f573ef9",
     "/assets/img/iglesia.jpg": "b9df2f85d7f96fd7f5ecd4185786d9bf789a2005",
     "/assets/img/marte.jpg": "70d8c59dc471df99a8e46d23230d61985338befb",
     "/assets/img/qr.jpg": "f87286e9b784788505b2a3bbd2d6799924f364fa",
@@ -197,19 +199,19 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "50d3ca1f5d5bfe2e5ad3a134fc8aa53b5b7b1da5",
+    "/fondo.3f49cf5e7ef9eb9ff320.png": "ef5d33722e6326a0ea5d705b1bebbd600f573ef9",
+    "/index.html": "3d6b8c8d08b3d56f480c8bd2369763a4ced2c3e2",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.5a4dcd38be0898748d2d.js": "b8186b9eb6218c3dde0bb5e209d0b134052080f3",
+    "/main.48ce0a5cbe59ac40bbcb.js": "69fba049e55454a0af13debeff855a61df5e87c2",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
     "/scripts.104d775d0a7126cbafbd.js": "c213ebf88a707154472984f39ad1e424312f5412",
-    "/si_bkg.762224d1f1cada8630b3.png": "28fb96b61e88cf21a5bff2cec3b9f341c17a943e",
-    "/styles.a7ba3e63af575ad56cdd.css": "1ea1b560e61fa2d16ba0b020d99abcc6484d381e"
+    "/styles.790fa8cabe3acf06fd16.css": "6dd5d34c174dde0453f515ed28933e81f582f00c"
   },
   "navigationUrls": [
     {
