@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623120219983,
+  "timestamp": 1623120699616,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -219,8 +219,8 @@
     "/assets/realidad/lib/aframe.min.js": "da50759ea155cb58e58a930573eb704d6c842c2a",
     "/assets/realidad/play-on-click.js": "bbdb1d955cb600a4779fb4f6bcfb72a136a9ea1e",
     "/assets/realidad/realidad-aumentada.html": "ab30f26923fba910bdb023990f7986e9fc58c155",
-    "/assets/realidad/realidad-virtual.html": "a9a009782921d32711fed011cafe340ed0427373",
-    "/assets/realidad/video.mp4": "4dd5a28eb5074eb562d63b482a4b7adc3b959398",
+    "/assets/realidad/realidad-virtual.html": "ddd1653ba80869604883436df07dd540d00f7537",
+    "/assets/realidad/video.mp4": "a85161d7a6f83f0b8c40e5922edf56ec5dd1d494",
     "/fa-brands-400.469ff15e72ceda3868c7.eot": "1cd2c2b11826ca1e10bc077d18b2f24257bf88a4",
     "/fa-brands-400.686336e914dbcd5bc20d.ttf": "4f75840965f2020b9e972cf92b0019c17d9e51ed",
     "/fa-brands-400.c02d7d9389ae7e1b28be.svg": "44d284802be840d96d26c7f38887925fa83bd383",
