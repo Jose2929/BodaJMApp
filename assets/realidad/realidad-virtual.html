@@ -12,16 +12,26 @@
     <a-scene>
       <a-assets>
         <video id="video" preload="auto"
-               src="video.mp4"
+               src="prueba.mp4"
                autoplay loop="true"
                crossOrigin="anonymous"></video>
       </a-assets>
       <a-videosphere
         rotation="0 -90 0"
         src="#video"
+        visible="false"
         play-on-click>
       </a-videosphere>
       <a-camera>
+        <a-entity
+          position="0 0 -1.5"
+          text="align: center;
+                width: 5;
+                wrapCount: 100;
+                color: black;
+                value: Click o tap para empezar video"
+          hide-on-play="#video">
+        </a-entity>
       </a-camera>
     </a-scene>
   </body>
