@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623119323377,
+  "timestamp": 1623119888019,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -80,7 +80,9 @@
         "/assets/realidad/aframe-master.js",
         "/assets/realidad/hide-on-enter-ar.js",
         "/assets/realidad/hide-on-play.js",
+        "/assets/realidad/info-message.js",
         "/assets/realidad/lib/aframe.min.js",
+        "/assets/realidad/play-on-click.js",
         "/assets/realidad/realidad-aumentada.html",
         "/assets/realidad/realidad-virtual.html",
         "/assets/realidad/video.mp4",
@@ -213,7 +215,9 @@
     "/assets/realidad/aframe-master.js": "ce40a15722b126c5199076e74b8620b83d9f5099",
     "/assets/realidad/hide-on-enter-ar.js": "5341537a7b61cbbadbf37cc99f71cc0961b5998e",
     "/assets/realidad/hide-on-play.js": "f52596b9e3f3d6e9dc92cd0673582b7a9a86d342",
+    "/assets/realidad/info-message.js": "474ad976417611999b54bd0dea3b6e46c555b021",
     "/assets/realidad/lib/aframe.min.js": "da50759ea155cb58e58a930573eb704d6c842c2a",
+    "/assets/realidad/play-on-click.js": "bbdb1d955cb600a4779fb4f6bcfb72a136a9ea1e",
     "/assets/realidad/realidad-aumentada.html": "ab30f26923fba910bdb023990f7986e9fc58c155",
     "/assets/realidad/realidad-virtual.html": "1c014ce4987596bf5abd1d39206065ec4f007f08",
     "/assets/realidad/video.mp4": "4dd5a28eb5074eb562d63b482a4b7adc3b959398",
