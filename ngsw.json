@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639380418624,
+  "timestamp": 1639556036397,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -78,6 +78,7 @@
         "/assets/libs/tweenMax/TweenMax.min.js",
         "/assets/libs/winwheel/LICENSE",
         "/assets/libs/winwheel/Winwheel.min.js",
+        "/assets/music/marcha-nupcial.mp3",
         "/assets/realidad/aframe-master.js",
         "/assets/realidad/hide-on-enter-ar.js",
         "/assets/realidad/hide-on-play.js",
@@ -89,12 +90,12 @@
         "/assets/realidad/video.mp4",
         "/favicon.ico",
         "/index.html",
-        "/main.2ac8be2e717f6714fa2c.js",
+        "/main.5249b773c247f0918f78.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
         "/scripts.104d775d0a7126cbafbd.js",
-        "/styles.6eeb319dabf49381c4e7.css"
+        "/styles.701e07542e6ddbdbf35f.css"
       ],
       "patterns": []
     },
@@ -110,6 +111,7 @@
         "/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf",
         "/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2",
         "/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff",
+        "/Pacifico-Regular.93cd59fff879b8bdd57d.ttf",
         "/Parisienne-Regular.7a6f750fbd5294e4bd0c.ttf",
         "/PressStart2P-Regular.5f45b52192a301cb8ccd.ttf",
         "/Sevillana-Regular.cfec803c94951047de2a.ttf",
@@ -145,6 +147,7 @@
     "/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf": "030f09ac12fb86a13f7432a75836b6768b541257",
     "/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2": "6ee4c79372c3fd679706306ede47e4b03cf53d60",
     "/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff": "f8575ba5b551d1c2077f2003dd272c08e0bf9168",
+    "/Pacifico-Regular.93cd59fff879b8bdd57d.ttf": "d987c38e86ac0942ed45615da28fe872eae91970",
     "/Parisienne-Regular.7a6f750fbd5294e4bd0c.ttf": "9c0742c0bb82288d984a37dd2642f1246e599d17",
     "/PressStart2P-Regular.5f45b52192a301cb8ccd.ttf": "6e2e27152e143b0bff28bf3f21f84e4c3f30760e",
     "/Sevillana-Regular.cfec803c94951047de2a.ttf": "754a8a13c9b02386d4168188e544d36eab6c713d",
@@ -214,6 +217,7 @@
     "/assets/libs/tweenMax/TweenMax.min.js": "eaa4e4a08400da3f22dedda706ba56cdce5b0b7a",
     "/assets/libs/winwheel/LICENSE": "9fbf8b6a7373cb41e6ac1d0d274aa0703cb013ae",
     "/assets/libs/winwheel/Winwheel.min.js": "64e8df74fa6bc65c305785a77079bc6fb057a562",
+    "/assets/music/marcha-nupcial.mp3": "31a49a3d1e641e82f2d7ab051209fd572b80ce22",
     "/assets/realidad/aframe-master.js": "ce40a15722b126c5199076e74b8620b83d9f5099",
     "/assets/realidad/hide-on-enter-ar.js": "5341537a7b61cbbadbf37cc99f71cc0961b5998e",
     "/assets/realidad/hide-on-play.js": "f52596b9e3f3d6e9dc92cd0673582b7a9a86d342",
@@ -240,18 +244,18 @@
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/fondo.3f49cf5e7ef9eb9ff320.png": "ef5d33722e6326a0ea5d705b1bebbd600f573ef9",
-    "/index.html": "21bc54fa72471752f75a911fcccd157a8ae86c4a",
+    "/index.html": "6e3607c4c04a24584b4db709f74e09763fb71eae",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.2ac8be2e717f6714fa2c.js": "eb5634133aedcd0d8ff21e2ae94d6f6aebb1ec33",
+    "/main.5249b773c247f0918f78.js": "93934eef4364decc9e4bcd3fb3081176529a28a6",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
     "/scripts.104d775d0a7126cbafbd.js": "c213ebf88a707154472984f39ad1e424312f5412",
-    "/styles.6eeb319dabf49381c4e7.css": "a8d4eaea8158e22ec5bd109fea7fb94716e24695"
+    "/styles.701e07542e6ddbdbf35f.css": "53ff4d2f5bde4d65ef3bccd807786e1c59d5bd88"
   },
   "navigationUrls": [
     {
