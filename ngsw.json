@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641890393056,
+  "timestamp": 1642059305248,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,10 @@
       },
       "urls": [
         "/4.2a83582e459718001233.js",
+        "/assets/fonts/BungeeShade-Regular.ttf",
         "/assets/fonts/FredokaOne-Regular.ttf",
+        "/assets/fonts/Neonderthaw-Regular.ttf",
+        "/assets/fonts/OFL.txt",
         "/assets/fonts/OFL_Fredoka.txt",
         "/assets/fonts/OFL_Pacifico.txt",
         "/assets/fonts/OFL_Parisienne.txt",
@@ -92,12 +95,12 @@
         "/assets/realidad/video.mp4",
         "/favicon.ico",
         "/index.html",
-        "/main.59555eb926ec8235ea08.js",
+        "/main.8a1eaff8949b8936798d.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
         "/scripts.104d775d0a7126cbafbd.js",
-        "/styles.701e07542e6ddbdbf35f.css"
+        "/styles.bfe506d687e38a0f5970.css"
       ],
       "patterns": []
     },
@@ -109,10 +112,12 @@
         "ignoreVary": true
       },
       "urls": [
+        "/BungeeShade-Regular.37f52faa1acf33b41e2e.ttf",
         "/FredokaOne-Regular.3888a8fd758c9b59eda4.ttf",
         "/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf",
         "/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2",
         "/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff",
+        "/Neonderthaw-Regular.fac5c05fa1f64ef943cf.ttf",
         "/Pacifico-Regular.93cd59fff879b8bdd57d.ttf",
         "/Parisienne-Regular.7a6f750fbd5294e4bd0c.ttf",
         "/PressStart2P-Regular.5f45b52192a301cb8ccd.ttf",
@@ -145,15 +150,20 @@
   "dataGroups": [],
   "hashTable": {
     "/4.2a83582e459718001233.js": "4331f0ad03c4b89739ec50616a8fb662c39f177e",
+    "/BungeeShade-Regular.37f52faa1acf33b41e2e.ttf": "d19970fa146165a9c98ff6eda8a3961e9c22d438",
     "/FredokaOne-Regular.3888a8fd758c9b59eda4.ttf": "a1e23edbf2b1640ca17ca5e863bf4508f3b404a7",
     "/Material-Design-Iconic-Font.5a588d6a8bfc41d69f88.ttf": "030f09ac12fb86a13f7432a75836b6768b541257",
     "/Material-Design-Iconic-Font.6ee80f4bf5d3f92f3bf7.woff2": "6ee4c79372c3fd679706306ede47e4b03cf53d60",
     "/Material-Design-Iconic-Font.bd9b02bf1131d90bfe22.woff": "f8575ba5b551d1c2077f2003dd272c08e0bf9168",
+    "/Neonderthaw-Regular.fac5c05fa1f64ef943cf.ttf": "2b4f831985445e7a04e4f3a50d51328cbb268c5e",
     "/Pacifico-Regular.93cd59fff879b8bdd57d.ttf": "d987c38e86ac0942ed45615da28fe872eae91970",
     "/Parisienne-Regular.7a6f750fbd5294e4bd0c.ttf": "9c0742c0bb82288d984a37dd2642f1246e599d17",
     "/PressStart2P-Regular.5f45b52192a301cb8ccd.ttf": "6e2e27152e143b0bff28bf3f21f84e4c3f30760e",
     "/Sevillana-Regular.cfec803c94951047de2a.ttf": "754a8a13c9b02386d4168188e544d36eab6c713d",
+    "/assets/fonts/BungeeShade-Regular.ttf": "d19970fa146165a9c98ff6eda8a3961e9c22d438",
     "/assets/fonts/FredokaOne-Regular.ttf": "a1e23edbf2b1640ca17ca5e863bf4508f3b404a7",
+    "/assets/fonts/Neonderthaw-Regular.ttf": "2b4f831985445e7a04e4f3a50d51328cbb268c5e",
+    "/assets/fonts/OFL.txt": "016b0312263fdfa61f13d700037415b426ab63af",
     "/assets/fonts/OFL_Fredoka.txt": "1a821896843ac02d6614d9b695fc5555b98c219d",
     "/assets/fonts/OFL_Pacifico.txt": "20638da1ee8c638dbe8445ff42bd50ff28a1be8e",
     "/assets/fonts/OFL_Parisienne.txt": "c022913864e4c50afc2ad30a4ac08588c8775d67",
@@ -248,18 +258,18 @@
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/fondo.3f49cf5e7ef9eb9ff320.png": "ef5d33722e6326a0ea5d705b1bebbd600f573ef9",
-    "/index.html": "6794d6d49ae10c2ccc6d5530fcfa5646239bef37",
+    "/index.html": "13fb980a192696cce4e90f9db95d51345e562471",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.59555eb926ec8235ea08.js": "f76467b1060006f732ae2ad6aa02ea8cc1d094fb",
+    "/main.8a1eaff8949b8936798d.js": "77e8cdfa0e46a58742e2ab4bf2eb6d8a24aa7f81",
     "/manifest.webmanifest": "3efb665d43ecd46f510643e5654e56ee5d6ef66f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
     "/scripts.104d775d0a7126cbafbd.js": "c213ebf88a707154472984f39ad1e424312f5412",
-    "/styles.701e07542e6ddbdbf35f.css": "53ff4d2f5bde4d65ef3bccd807786e1c59d5bd88"
+    "/styles.bfe506d687e38a0f5970.css": "2e4e59d8df1101bc3d6d94422797f95a3ca0ddf9"
   },
   "navigationUrls": [
     {
