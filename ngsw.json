@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644393661807,
+  "timestamp": 1644394817202,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -24,6 +24,7 @@
         "/assets/img/fiesta_1.jpg",
         "/assets/img/flores.png",
         "/assets/img/fondo-anillo.png",
+        "/assets/img/fondo-boda.jpg",
         "/assets/img/iglesia_1.png",
         "/assets/music/marcha-nupcial.mp3",
         "/favicon.ico",
@@ -94,6 +95,7 @@
     "/assets/img/fiesta_1.jpg": "150e9e269cf6f57025cb6f549b6d6fffa0373770",
     "/assets/img/flores.png": "c7fa47f11fee72fbf8b5d3f8e366346044fa1def",
     "/assets/img/fondo-anillo.png": "969f947236eb1b9213e48b4f2e48b6cbbd7f40dd",
+    "/assets/img/fondo-boda.jpg": "486b37b7e0c640ed074519b31c0172f7816fc96b",
     "/assets/img/iglesia_1.png": "95024f577d53c090f84394ab09e7f538869f2836",
     "/assets/music/marcha-nupcial.mp3": "31a49a3d1e641e82f2d7ab051209fd572b80ce22",
     "/fa-brands-400.469ff15e72ceda3868c7.eot": "1cd2c2b11826ca1e10bc077d18b2f24257bf88a4",
