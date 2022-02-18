@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645165878497,
+  "timestamp": 1645166368248,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -29,7 +29,7 @@
         "/assets/music/marcha-nupcial.mp3",
         "/favicon.ico",
         "/index.html",
-        "/main.34798f22acedec1291f6.js",
+        "/main.fee888215c9c287dbd42.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
@@ -114,13 +114,13 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "787114f2d607c880a1b38a8709b1be4e3d12262b",
-    "/index.html": "773bff9c2d73f57898b16418127aea2791ad1e9f",
+    "/index.html": "68dd99570a98a9dc4a5f82f3ee24ddbdd3bd8024",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.34798f22acedec1291f6.js": "8ef0376b8e72c74c8a9e5bdeb1acc9185e031b9c",
+    "/main.fee888215c9c287dbd42.js": "19ec53831e1b604117b42047c035ac576de2f0c3",
     "/manifest.webmanifest": "16a6a3322bd54d56509dc2fd2a8b0b0834948e5f",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
