@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <title>Model Viewer AR - VR</title>
@@ -20,11 +20,6 @@
   info-message="htmlSrc: #messageText"
   model-viewer="gltfModel: #triceratops; title: Triceratops">
   <a-assets>
-    <!--
-      Model source: https://sketchfab.com/3d-models/triceratops-d16aabe33dc24f8ab37e3df50c068265
-      Model author: https://sketchfab.com/VapTor
-      Model license: Sketcfab Standard
-    -->
     <a-asset-item id="triceratops"
       src="https://cdn.aframe.io/examples/ar/models/triceratops/scene.gltf"
       response-type="arraybuffer" crossorigin="anonymous"></a-asset-item>
@@ -38,4 +33,27 @@
   </a-assets>
 </a-scene>
 </body>
-</html>
+</html> -->
+
+
+<script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+
+<body style='margin : 0px; overflow: hidden;'>
+  <a-scene embedded arjs="debugUIEnabled: false; ">
+    <a-assets>
+      <a-asset-item id="nombre" src="nombres.gltf"></a-asset-item>
+    </a-assets>
+
+    <a-marker-camera type="pattern" url="pattern-marker.patt"></a-marker-camera>
+    <!-- <a-marker-camera preset='kanji'></a-marker-camera> -->
+
+    <a-box position='0 0.5 0' material='opacity: 1;'></a-box>
+
+    <!-- <a-entity animation-mixer fbx-model="src: url(./assets/nombres.fbx)" 
+      position="0 0 -7" scale="0.035 0.035 0.035" rotation="0 -90 0">
+    </a-entity> -->
+
+    <!-- <a-entity scale="0.035 0.035 0.035" gltf-model="#nombre"></a-entity> -->
+  </a-scene>
+</body>
