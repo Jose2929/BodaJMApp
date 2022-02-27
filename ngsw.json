@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645773930576,
+  "timestamp": 1645953867596,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -35,12 +35,12 @@
         "/assets/music/marcha-nupcial.mp3",
         "/favicon.ico",
         "/index.html",
-        "/main.6b24f08625a09446a93d.js",
+        "/main.fc5f97a5ef91cc1782f7.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.0022e3ea26b5a9eaa25a.js",
         "/scripts.104d775d0a7126cbafbd.js",
-        "/styles.7e572381c964aa27b63a.css"
+        "/styles.c6e53e2a2b1c549ca97c.css"
       ],
       "patterns": []
     },
@@ -93,9 +93,9 @@
     "/Pacifico-Regular.93cd59fff879b8bdd57d.ttf": "d987c38e86ac0942ed45615da28fe872eae91970",
     "/assets/fonts/FredokaOne-Regular.ttf": "a1e23edbf2b1640ca17ca5e863bf4508f3b404a7",
     "/assets/fonts/GreatVibes-Regular.ttf": "4dd3bad8fb151d31eedee2676488f94f831bf515",
-    "/assets/fonts/OFL.txt": "039af90ef1b6b1a06f8b172ea7165f35df5069bd",
-    "/assets/fonts/OFL_Fredoka.txt": "1a821896843ac02d6614d9b695fc5555b98c219d",
-    "/assets/fonts/OFL_Pacifico.txt": "20638da1ee8c638dbe8445ff42bd50ff28a1be8e",
+    "/assets/fonts/OFL.txt": "2d9128871451ae87e654ae3b91d55414aa4374f0",
+    "/assets/fonts/OFL_Fredoka.txt": "9f2949daa781e9b17a111d70d8928142a76ec7a7",
+    "/assets/fonts/OFL_Pacifico.txt": "49b8cff0cbd9ece132be784264b89507d69de430",
     "/assets/fonts/Pacifico-Regular.ttf": "d987c38e86ac0942ed45615da28fe872eae91970",
     "/assets/img/adorno.png": "7d00edfa0d884edab89a8c5da563300358862045",
     "/assets/img/anillo.png": "31defd17b0925d42a92cbf6e2a261fb4f5879e82",
@@ -128,18 +128,18 @@
     "/fa-solid-900.8fb677a95f4d1a60a535.ttf": "75389055ff16f50e13c46b95da3c59af091f34c1",
     "/fa-solid-900.dc4cd499c4e39885ce89.eot": "94be46c754a1415ed221f78136e45449018da0ed",
     "/favicon.ico": "787114f2d607c880a1b38a8709b1be4e3d12262b",
-    "/index.html": "f7b1ce969ad948ad82b2c4cf4313b09a5cf45ea5",
+    "/index.html": "e817b820ebe837743ab5008a8dfd58bd5f7c88aa",
     "/ionicons.175f391f238cd7deffa8.woff2": "60c9e10a709815148bf4a9b333a396692739cd5c",
     "/ionicons.576a3a02948f7f5140b2.ttf": "a8cfdb2b0545da2c9883e8f3446ecd6ae467ee7d",
     "/ionicons.74d1410980e8dabb67a0.svg": "1df996bb4f1d41fb25d402d858901653cb881d1a",
     "/ionicons.a014cf6987657a489eaa.eot": "14daa3e17f8d16b6ff65cf52f20abcb9bb7f26ee",
     "/ionicons.ef35f15cc09a26825792.woff": "c295e79f1883178eb55574822c2b16ea83cffdfe",
-    "/main.6b24f08625a09446a93d.js": "d68c64561f97ed7003ef9bbca7b7345858f2e58a",
-    "/manifest.webmanifest": "16a6a3322bd54d56509dc2fd2a8b0b0834948e5f",
+    "/main.fc5f97a5ef91cc1782f7.js": "b4ff62d16479a3086c570edd1fc18d8f44ebe5f1",
+    "/manifest.webmanifest": "3ebdc5ba4f54539b115ba6b3f71ee3ea7e4929a0",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.0022e3ea26b5a9eaa25a.js": "30410e788ff39b833c8f94de6b72d3de42bc4d8b",
     "/scripts.104d775d0a7126cbafbd.js": "c213ebf88a707154472984f39ad1e424312f5412",
-    "/styles.7e572381c964aa27b63a.css": "2b175426a6c6f14e0b354b7b08bd1f7d61e79f66"
+    "/styles.c6e53e2a2b1c549ca97c.css": "0859a6f11e823cb6153fb8ba6dc8bb78a18868bd"
   },
   "navigationUrls": [
     {
